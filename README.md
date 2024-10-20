@@ -6,6 +6,7 @@
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: kanchanakavitha6@gmail.com
 - 😄 Pronouns: Jeki
+- 👾 Software Engineer @Xleron
 
 # 🛠️ MY TOOLS AND LANG
 <a href="https://heroku.com"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
