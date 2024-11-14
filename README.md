@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Software Engineer Undergraduate
-- 🌱 I’m currently learning NEXT.js
+- 🌱 I’m currently learning React Natic
 - 👯 I’m looking to collaborate on web development
 - 💬 Micro Saas Developer
 - 📫 How to reach me: kanchanakavitha6@gmail.com
