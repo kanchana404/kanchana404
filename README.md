@@ -33,11 +33,6 @@ I'm always open to exciting web development projects and collaboration opportuni
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavitha-kanchana)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanchana404)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg" width="100%">
-</p>
-
 ## 🏆 Achievements
 - Software Engineer @ Xleron
 - Micro SaaS Developer
