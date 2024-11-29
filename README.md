@@ -34,7 +34,7 @@ I'm always open to exciting web development projects and collaboration opportuni
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Contributions](https://github.githubassets.com/images/modules/profile/profile-first-repo-dark.svg)
 
 ## 🏆 Achievements
 - Software Engineer @ Xleron
