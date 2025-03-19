@@ -36,6 +36,7 @@ I'm always open to exciting web development projects and collaboration opportuni
 ## 🏆 Achievements
 - Software Engineer @ Xleron
 - Micro SaaS Developer
+- Automation engineer using n8n and make.com
 - Open Source Contributor
 
 ---
