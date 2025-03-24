@@ -1,4 +1,4 @@
-# Hi there, I'm Jeki 👋
+# Hi there, I'm kavitha(k4o4) 👋
 
 ## 🚀 About Me
 Software Engineer | Micro SaaS Developer | Web Development Enthusiast
