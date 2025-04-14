@@ -26,7 +26,7 @@ Currently pursuing my undergraduate degree in Software Engineering, I'm passiona
 - Full-stack web development best practices
 
 ## 🤝 Let's Collaborate
-I'm always open to exciting web development projects and collaboration opportunities. Feel free to reach out!
+I'm always open to exciting web development projects and collaboration opportunities.Feel free to reach out!
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchanakavitha6@gmail.com)
