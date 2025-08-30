@@ -1,19 +1,23 @@
 # Hi there, I'm kavitha(k4o4) 👋
 
 ## 🚀 About Me
-Software Engineer | Micro SaaS Developer | Web Development Enthusiast
+Software Engineer | Micro SaaS Developer | React Native & Web Development Enthusiast | Automation Specialist
 
-Currently pursuing my undergraduate degree in Software Engineering, I'm passionate about building innovative web applications and exploring cutting-edge technologies.
+Currently pursuing my undergraduate degree in Software Engineering, I'm passionate about building innovative mobile and web applications, creating seamless automation workflows, and exploring cutting-edge technologies.
 
-## 💻 Tech Stack
-
+## 💻 Core Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Additional Tools & Technologies
+## 🔧 Automation & Workflow Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6B46C1?style=for-the-badge&logo=integromat&logoColor=white)
+
+### 🛠️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -21,12 +25,25 @@ Currently pursuing my undergraduate degree in Software Engineering, I'm passiona
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🌱 Currently Learning
-- Advanced React Native techniques
+- Advanced React Native mobile development patterns
+- Complex automation workflows with n8n
 - Micro SaaS development strategies
 - Full-stack web development best practices
 
+## 🤖 Automation Expertise
+Specializing in creating efficient business automation solutions using:
+- **n8n**: Building complex workflow automations and integrations
+- **Make.com**: Designing seamless process automation pipelines
+- Custom automation solutions for businesses and SaaS applications
+
 ## 🤝 Let's Collaborate
-I'm always open to exciting web development projects and collaboration opportunities.Feel free to reach out!
+I'm always open to exciting projects involving:
+- React Native mobile applications
+- Web development with Next.js/React
+- Automation and workflow optimization
+- Micro SaaS development
+
+Feel free to reach out!
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanchanakavitha6@gmail.com)
@@ -36,8 +53,9 @@ I'm always open to exciting web development projects and collaboration opportuni
 ## 🏆 Achievements
 - Software Engineer @ Xleron
 - Micro SaaS Developer
-- Automation engineer using n8n and make.com
+- Automation Engineer specializing in n8n and Make.com
+- React Native Mobile Developer
 - Open Source Contributor
 
 ---
-*Turning coffee into code, one commit at a time* ☕️💻
+*Turning coffee into code and automating the world, one workflow at a time* ☕️💻🤖
