@@ -51,7 +51,7 @@ Feel free to reach out!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanchana404)
 
 ## 🏆 Achievements
-- Software Engineer @ Xleron
+- Software Engineer
 - Micro SaaS Developer
 - Automation Engineer specializing in n8n and Make.com
 - React Native Mobile Developer
