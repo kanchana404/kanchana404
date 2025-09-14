@@ -25,10 +25,10 @@ Currently pursuing my undergraduate degree in Software Engineering, I'm passiona
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 🌱 Currently Learning
-- Advanced React Native mobile development patterns
-- Complex automation workflows with n8n
-- Micro SaaS development strategies
-- Full-stack web development best practices
+- Advanced React Native mobile development patterns.
+- Complex automation workflows with n8n.
+- Micro SaaS development strategies.
+- Full-stack web development best practices.
 
 ## 🤖 Automation Expertise
 Specializing in creating efficient business automation solutions using:
