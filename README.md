@@ -58,4 +58,4 @@ Feel free to reach out!
 - Open Source Contributor
 
 ---
-*Turning coffee into code and automating the world, one workflow at a time* ☕️💻🤖
+*Turning coffee into code and automating the world, one workflow at a time* ☕️💻🤖.
